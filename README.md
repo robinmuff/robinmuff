@@ -14,7 +14,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)&nbsp;
 
 # Most Used Languages #
 
