@@ -2,8 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to programm for work and in my freetime.\
-🏎️ &nbsp;In my freetime I like to play racing games.
+💡 &nbsp;I like to programm for work and in my freetime. Most experience in c# desktop, next step is webapps.
 
 ### 🛠 &nbsp;My Skills
 
@@ -18,6 +17,6 @@
 # Most Used Languages #
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinmuff&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinmuff&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 
 ---
