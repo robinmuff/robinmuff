@@ -9,6 +9,7 @@
 
 ### 🛠 &nbsp;My Skills
 
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%20Sharp)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
