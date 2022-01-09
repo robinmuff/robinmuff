@@ -1,11 +1,14 @@
 <h1 align="center">Welcome robinmuff's GitHub Profile<br/> </h1> 
 
+### 💻 &nbsp;My school projects
+[![GITHUB](https://img.shields.io/badge/-Robin%20Muff%20Schools-white?style=flat-square&logo=Github&logoColor=black&style=flat&link=https://www.linkedin.com/in/robin-muff/)](https://github.com/robinmuff-school)
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to programm for work and in my freetime. Most experience in c# desktop, getting into webdevelopement
 
 ### ☏ &nbsp;Contact me
-[![Linkedin Badge](https://img.shields.io/badge/-Robin%20Muff-blue?style=flat-square&logo=Linkedin&logoColor=white&style=flat&link=https://www.linkedin.com/in/robin-muff-188613205/)](https://www.linkedin.com/in/robin-muff-188613205/)
+[![Linkedin Badge](https://img.shields.io/badge/-Robin%20Muff-blue?style=flat-square&logo=Linkedin&logoColor=white&style=flat&link=https://www.linkedin.com/in/robin-muff/)](https://www.linkedin.com/in/robin-muff-188613205/)
 
 ### 🛠 &nbsp;My Skills
 
